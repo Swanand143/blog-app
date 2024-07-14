@@ -6,6 +6,7 @@ function Home() {
   console.log(blogs);
   return (
     <>
+    <h2>My Blogs</h2>
       <div className="card-container">
         {blogs.map((blogObject, i) => {
           const { id, title, image, date, description } = blogObject;

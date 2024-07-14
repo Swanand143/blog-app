@@ -1,7 +1,8 @@
 const blogs = [
   {
     id: "Meet the Interns: Lindsay Guarnieri",
-    image: "https://www.girlmuseum.org/wp-content/uploads/2024/06/LindsayG-fotor-20240625184644-980x871.jpg",
+    image:
+      "https://www.girlmuseum.org/wp-content/uploads/2024/06/LindsayG-fotor-20240625184644-980x871.jpg",
     title: "Meet the Interns: Lindsay Guarnieri",
     date: "2024-06-29",
     description:
@@ -15,28 +16,47 @@ const blogs = [
   },
   {
     id: "Representation and Awareness in Girls’ Soccer",
-    image: "https://www.girlmuseum.org/path/to/image2.jpg",
+    image:
+      "https://www.girlmuseum.org/wp-content/uploads/2024/06/Representatio-FB.png",
     title: "Representation and Awareness in Girls’ Soccer",
     date: "2024-06-28",
     description:
       "Did you know the men’s European Football Championship started last Friday in Germany? Probably more likely that you heard about them than about an all-girl football team, the Queen Park Ladies in Bournemouth, U.K...",
+    info: {
+      part1:
+        "Did you know the men’s European Football Championship started last Friday in Germany? Probably more likey that you heard about them than about an all-girl football team, the Queen Park Ladies in Bournemouth, U.K.?  Allow me to break down their accomplishments.",
+      part2:
+        "Because of their brilliant result, they are ascending in their category, which means they will have to play in larger pitches and with 11 a side (before it was 9 to 9) (Moses, 2024). Even if the change in conditions affects their future performance, for better or worse, this achievement cannot be erased. More than that, what comes through while reading about them are two things: the outside belief from their coach and manager in their capacities, but more importantly, their self belief. By training hard and through teamwork (some of them have played together for several years), they already see themselves as examples for other girls to pick up the sport. As Edith, one of the defenders, mentions, they believed in themselves even when they were underestimated or mocked (Coombes, 2024)..",
+    },
   },
   {
     id: "Why We Need Girls’ Studies: Kristen Hatch",
-    image: "https://www.girlmuseum.org/path/to/image3.jpg",
+    image: "https://www.girlmuseum.org/wp-content/uploads/2024/05/KHatch.jpeg",
     title: "Why We Need Girls’ Studies: Kristen Hatch",
     date: "2024-06-25",
     description:
       "Welcome to Girl Museum’s interview series, Why We Need Girls’ Studies, for 2024. We have many exciting interviews this year with important scholars in the field to get insights about what we are all doing in this space to further our understanding of girlhood...",
-  },
+      info: {
+        part1:
+          "In The Politics and Poetics of Transgression, Peter Stallybrass and Allon White note that groups that have very little social or political power often have a great deal of symbolic power. This is what interests me about girlhood. While actual girls have little to no voice in shaping their worlds, the ideal of white girlhood has played an outsized role in political debates in the US, especially debates around race, gender, and sexuality. And, in turn, these political debates in which girls are both central and voiceless, have shaped girls’ lives. ",
+        part2:
+          "Abstract: In the 1970s, child actress and model Brooke Shields became a flashpoint for the crisis over child sexuality and paedophilia. Shields’s disturbing marriage of a child’s body with a womanly face disrupted the iconography of childhood that had flourished since the Enlightenment and pointed towards a new paradigm that has become more prominent in the decades since. This article examines how child liberationist views that children are sexual beings helped to shape Shields’s public image as an object of adult male desire, even as her celebrity became a vector for the emerging feminist argument that children must be protected from adult desire. Through discourse about Shields, artists, journalists, and others articulated opposing logics for understanding the newly sexualised child and helped lay the foundation for contemporary debates about children in visual culture.",
+      },
+    },
   {
     id: "The Role of Women in Ancient Civilizations",
-    image: "https://www.girlmuseum.org/path/to/image4.jpg",
+    image: "https://miro.medium.com/v2/resize:fit:640/format:webp/1*FeVC-RvkHLA7k9kwiwYgdw.jpeg",
     title: "The Role of Women in Ancient Civilizations",
     date: "2024-06-22",
     description:
       "Exploring the significant roles that women played in various ancient civilizations, contributing to their societies in unique and impactful ways...",
-  },
+      info: {
+        part1:
+          "In the tapestry of human history, the role of women in ancient civilizations is a thread woven with complexity, diversity, and resilience. Across the vast expanse of time and geography, women in various ancient cultures played pivotal roles, contributing to the cultural, social, and economic fabric of their societies. This article aims to delve into the societal roles, rights, and contributions of women in selected ancient civilizations, shedding light on the rich and varied experiences of women in the ancient world. ",
+        part2:
+          "The study of women in ancient civilizations reveals a spectrum of experiences, from the constraints imposed by patriarchal norms to instances of empowerment and influence. The roles, rights, and contributions of women in Mesopotamia, Egypt, Greece, Rome, and the Indus Valley Civilization paint a diverse picture of resilience, creativity, and societal impact. As we navigate the complexities of the past, we glean valuable lessons for fostering gender equality and acknowledging the enduring contributions of women across the ages.",
+      },
+    },
   {
     id: "Art History: Female Pioneers",
     image: "https://www.girlmuseum.org/path/to/image5.jpg",
