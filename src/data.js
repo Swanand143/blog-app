@@ -36,49 +36,59 @@ const blogs = [
     date: "2024-06-25",
     description:
       "Welcome to Girl Museum’s interview series, Why We Need Girls’ Studies, for 2024. We have many exciting interviews this year with important scholars in the field to get insights about what we are all doing in this space to further our understanding of girlhood...",
-      info: {
-        part1:
-          "In The Politics and Poetics of Transgression, Peter Stallybrass and Allon White note that groups that have very little social or political power often have a great deal of symbolic power. This is what interests me about girlhood. While actual girls have little to no voice in shaping their worlds, the ideal of white girlhood has played an outsized role in political debates in the US, especially debates around race, gender, and sexuality. And, in turn, these political debates in which girls are both central and voiceless, have shaped girls’ lives. ",
-        part2:
-          "Abstract: In the 1970s, child actress and model Brooke Shields became a flashpoint for the crisis over child sexuality and paedophilia. Shields’s disturbing marriage of a child’s body with a womanly face disrupted the iconography of childhood that had flourished since the Enlightenment and pointed towards a new paradigm that has become more prominent in the decades since. This article examines how child liberationist views that children are sexual beings helped to shape Shields’s public image as an object of adult male desire, even as her celebrity became a vector for the emerging feminist argument that children must be protected from adult desire. Through discourse about Shields, artists, journalists, and others articulated opposing logics for understanding the newly sexualised child and helped lay the foundation for contemporary debates about children in visual culture.",
-      },
+    info: {
+      part1:
+        "In The Politics and Poetics of Transgression, Peter Stallybrass and Allon White note that groups that have very little social or political power often have a great deal of symbolic power. This is what interests me about girlhood. While actual girls have little to no voice in shaping their worlds, the ideal of white girlhood has played an outsized role in political debates in the US, especially debates around race, gender, and sexuality. And, in turn, these political debates in which girls are both central and voiceless, have shaped girls’ lives. ",
+      part2:
+        "Abstract: In the 1970s, child actress and model Brooke Shields became a flashpoint for the crisis over child sexuality and paedophilia. Shields’s disturbing marriage of a child’s body with a womanly face disrupted the iconography of childhood that had flourished since the Enlightenment and pointed towards a new paradigm that has become more prominent in the decades since. This article examines how child liberationist views that children are sexual beings helped to shape Shields’s public image as an object of adult male desire, even as her celebrity became a vector for the emerging feminist argument that children must be protected from adult desire. Through discourse about Shields, artists, journalists, and others articulated opposing logics for understanding the newly sexualised child and helped lay the foundation for contemporary debates about children in visual culture.",
     },
+  },
   {
     id: "The Role of Women in Ancient Civilizations",
-    image: "https://miro.medium.com/v2/resize:fit:640/format:webp/1*FeVC-RvkHLA7k9kwiwYgdw.jpeg",
+    image:
+      "https://miro.medium.com/v2/resize:fit:640/format:webp/1*FeVC-RvkHLA7k9kwiwYgdw.jpeg",
     title: "The Role of Women in Ancient Civilizations",
     date: "2024-06-22",
     description:
       "Exploring the significant roles that women played in various ancient civilizations, contributing to their societies in unique and impactful ways...",
-      info: {
-        part1:
-          "In the tapestry of human history, the role of women in ancient civilizations is a thread woven with complexity, diversity, and resilience. Across the vast expanse of time and geography, women in various ancient cultures played pivotal roles, contributing to the cultural, social, and economic fabric of their societies. This article aims to delve into the societal roles, rights, and contributions of women in selected ancient civilizations, shedding light on the rich and varied experiences of women in the ancient world. ",
-        part2:
-          "The study of women in ancient civilizations reveals a spectrum of experiences, from the constraints imposed by patriarchal norms to instances of empowerment and influence. The roles, rights, and contributions of women in Mesopotamia, Egypt, Greece, Rome, and the Indus Valley Civilization paint a diverse picture of resilience, creativity, and societal impact. As we navigate the complexities of the past, we glean valuable lessons for fostering gender equality and acknowledging the enduring contributions of women across the ages.",
-      },
+    info: {
+      part1:
+        "In the tapestry of human history, the role of women in ancient civilizations is a thread woven with complexity, diversity, and resilience. Across the vast expanse of time and geography, women in various ancient cultures played pivotal roles, contributing to the cultural, social, and economic fabric of their societies. This article aims to delve into the societal roles, rights, and contributions of women in selected ancient civilizations, shedding light on the rich and varied experiences of women in the ancient world. ",
+      part2:
+        "The study of women in ancient civilizations reveals a spectrum of experiences, from the constraints imposed by patriarchal norms to instances of empowerment and influence. The roles, rights, and contributions of women in Mesopotamia, Egypt, Greece, Rome, and the Indus Valley Civilization paint a diverse picture of resilience, creativity, and societal impact. As we navigate the complexities of the past, we glean valuable lessons for fostering gender equality and acknowledging the enduring contributions of women across the ages.",
     },
+  },
   {
     id: "Art History: Female Pioneers",
-    image: "https://blog.bridgemanimages.com/hs-fs/hubfs/fa1.jpg?width=545&name=fa1.jpg",
+    image:
+      "https://blog.bridgemanimages.com/hs-fs/hubfs/fa1.jpg?width=545&name=fa1.jpg",
     title: "Art History: Female Pioneers",
     date: "2024-06-20",
     description:
       "An in-depth look at some of the female pioneers in the field of art history, highlighting their contributions and lasting impacts on the art world...",
-  
-      info: {
-        part1:
-          "Dame Laura Knight is rightly recognised as one of the most successful and historically significant English painters of all time. She enjoyed a hugely successful career which paved the way for greater recognition and celebration of the talent of fellow female artists in the male-dominated British art establishment. She also found great interest and inspiration in marginalised communities, such as gypsies, circus performers and travellers. In 1936, she became the first woman elected full membership of the Royal Academy. Her large retrospective there in 1965 was the first for a woman. ",
-        part2:
-          "Dorothea and her husband Paul Schuster Taylor (a professor of Economics) documented rural poverty and the exploitation of sharecroppers and migrant labourers  – Taylor interviewing and gathering economic data, and Lange taking photos. The resulting body of work highlighted the plight of the ordinary rural people, many of whom were on the brink of starvation, and prompted the government to come to their aid. Lange’s deeply effecting work during this period has come to define the Depression era ",
-      },  },
+
+    info: {
+      part1:
+        "Dame Laura Knight is rightly recognised as one of the most successful and historically significant English painters of all time. She enjoyed a hugely successful career which paved the way for greater recognition and celebration of the talent of fellow female artists in the male-dominated British art establishment. She also found great interest and inspiration in marginalised communities, such as gypsies, circus performers and travellers. In 1936, she became the first woman elected full membership of the Royal Academy. Her large retrospective there in 1965 was the first for a woman. ",
+      part2:
+        "Dorothea and her husband Paul Schuster Taylor (a professor of Economics) documented rural poverty and the exploitation of sharecroppers and migrant labourers  – Taylor interviewing and gathering economic data, and Lange taking photos. The resulting body of work highlighted the plight of the ordinary rural people, many of whom were on the brink of starvation, and prompted the government to come to their aid. Lange’s deeply effecting work during this period has come to define the Depression era ",
+    },
+  },
   {
     id: "Celebrating Girls in STEM",
-    image: "https://www.girlmuseum.org/path/to/image6.jpg",
+    image:
+      "https://www.unwomen.org/sites/default/files/2024-05/ai_genderexplainer_muralpainting_unhq_un791052_1ce_1200x800.jpg?t=1716317605",
     title: "Celebrating Girls in STEM",
     date: "2024-06-18",
     description:
       "Highlighting the achievements of young girls in the fields of science, technology, engineering, and mathematics, and the importance of encouraging more girls to pursue careers in STEM...",
-  },
+ 
+      info: {
+        part1:
+          "International cooperation on digital technology has focused on technical and infrastructural issues and the digital economy, often at the expense of how technological developments were affecting society and generating disruption across all its layers – especially for the most vulnerable and historically excluded. There is a global governance deficit in addressing the challenges and risks of AI and harnessing its potential to leave no one behind. ",
+        part2:
+          "In the current AI architecture, benefits and risks are not equitably distributed, with power concentrated in the hands of a few corporations, States and individuals, who control talent, data and computer resources. There is also no mechanism to look at broader considerations, like new forms of social vulnerability generated by AI, the disruption of industries and labour markets, the propensity for emerging technology to be used as a tool of oppression, the sustainability of the AI supply chain, or the impact of AI on future generations.",
+      },   },
 ];
 
 export default blogs;
