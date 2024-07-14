@@ -1,11 +1,17 @@
 const blogs = [
   {
     id: "Meet the Interns: Lindsay Guarnieri",
-    image: "https://www.girlmuseum.org/path/to/image1.jpg",
+    image: "https://www.girlmuseum.org/wp-content/uploads/2024/06/LindsayG-fotor-20240625184644-980x871.jpg",
     title: "Meet the Interns: Lindsay Guarnieri",
     date: "2024-06-29",
     description:
       "My name is Lindsay Guarnieri and I live in the museum center of the United States- Washington DC. I am a student in the MA Museum studies program at George Washington University...",
+    info: {
+      part1:
+        "My name is Lindsay Guarnieri and I live in the museum center of the United States- Washington DC. I am a student in the MA Museum studies program at George Washington University. I also hold a BA in Film Studies and Cultural Anthropology from Mount Holyoke College. I have a deep love for cultural museums as well as museums that explore the film industry, the art of film, and art museums that incorporate film into their exhibitions. I also love baking, cooking, reading, and hanging out with friends.",
+      part2:
+        "Social media is something I believe can be amazing for helping people build community, however I also view it as one of the biggest issues facing young girls. As young girls grow up, they are constantly seeking validation from their peers, friends, family, and anyone else in their life. Now, with social media this also includes the rest of the world. This has resulted in many young girls having severe mental health issues that were not as prevalent for earlier generations who did not have social media growing up. However, it is also a place where many girls can show off their creativity, connect with others who share similar interests and hobbies, and a place where they can find joy in sharing things with friends. I believe that teaching young girls the importance of boundaries when it comes to social media and to explain how social media works can help in aiding them to understand the unrealistic standards that social media puts and how they can use social media in a way that is not damaging to their mental health.",
+    },
   },
   {
     id: "Representation and Awareness in Girls’ Soccer",
@@ -47,20 +53,6 @@ const blogs = [
     description:
       "Highlighting the achievements of young girls in the fields of science, technology, engineering, and mathematics, and the importance of encouraging more girls to pursue careers in STEM...",
   },
-  {
-    id: "Feminist Art Movements",
-    image: "https://www.girlmuseum.org/path/to/image7.jpg",
-    title: "Feminist Art Movements",
-    date: "2024-06-15",
-    description:
-      "An exploration of various feminist art movements throughout history and their impact on society and the art world...",
-  },
-  {
-    id: "Historical Perspectives on Girlhood",
-    image: "https://www.girlmuseum.org/path/to/image8.jpg",
-    title: "Historical Perspectives on Girlhood",
-    date: "2024-06-12",
-    description:
-      "A look at how the concept of girlhood has evolved over the centuries, influenced by cultural, social, and economic factors...",
-  },
 ];
+
+export default blogs;
