@@ -59,12 +59,18 @@ const blogs = [
     },
   {
     id: "Art History: Female Pioneers",
-    image: "https://www.girlmuseum.org/path/to/image5.jpg",
+    image: "https://blog.bridgemanimages.com/hs-fs/hubfs/fa1.jpg?width=545&name=fa1.jpg",
     title: "Art History: Female Pioneers",
     date: "2024-06-20",
     description:
       "An in-depth look at some of the female pioneers in the field of art history, highlighting their contributions and lasting impacts on the art world...",
-  },
+  
+      info: {
+        part1:
+          "Dame Laura Knight is rightly recognised as one of the most successful and historically significant English painters of all time. She enjoyed a hugely successful career which paved the way for greater recognition and celebration of the talent of fellow female artists in the male-dominated British art establishment. She also found great interest and inspiration in marginalised communities, such as gypsies, circus performers and travellers. In 1936, she became the first woman elected full membership of the Royal Academy. Her large retrospective there in 1965 was the first for a woman. ",
+        part2:
+          "Dorothea and her husband Paul Schuster Taylor (a professor of Economics) documented rural poverty and the exploitation of sharecroppers and migrant labourers  – Taylor interviewing and gathering economic data, and Lange taking photos. The resulting body of work highlighted the plight of the ordinary rural people, many of whom were on the brink of starvation, and prompted the government to come to their aid. Lange’s deeply effecting work during this period has come to define the Depression era ",
+      },  },
   {
     id: "Celebrating Girls in STEM",
     image: "https://www.girlmuseum.org/path/to/image6.jpg",
