@@ -2,7 +2,7 @@
     max-width: 800px;
     margin: 40px auto;
     padding: 20px;
-    background-color: bisque;
+    background-color: rgb(238, 238, 247);
     border: 1px solid #ddd;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   }
